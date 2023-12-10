@@ -112,6 +112,10 @@ li {
   gap: 16px;
   margin-top: 24px;
 }
+footer{
+  color: white;
+  padding: 34px 0;
+}
 
 @media only screen and (max-width: 620px) {
   main {
